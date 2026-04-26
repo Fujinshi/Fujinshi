@@ -85,6 +85,8 @@
 </div>
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6bgquf4524hgu3mdb3vd4426m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6bgquf4524hgu3mdb3vd4426m&redirect=true)
+
 <h2 align="center">Connect with Me</h2>
 
 <div align="center">
@@ -92,5 +94,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fujinshi)
 
 </div>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6bgquf4524hgu3mdb3vd4426m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6bgquf4524hgu3mdb3vd4426m&redirect=true)
