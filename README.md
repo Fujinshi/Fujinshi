@@ -41,12 +41,8 @@
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
-| [**Fujinshi**](https://github.com/Fujinshi/Fujinshi) | — | ⭐ 0 | — |
-| [**me**](https://github.com/Fujinshi/me) | — | ⭐ 0 | Python |
-| [**ml**](https://github.com/Fujinshi/ml) | — | ⭐ 0 | — |
-| [**HiraShit**](https://github.com/Fujinshi/HiraShit) | — | ⭐ 0 | Java |
-| [**pushbot**](https://github.com/Fujinshi/pushbot) | — | ⭐ 0 | JavaScript |
-| [**upload-1777151798348**](https://github.com/Fujinshi/upload-1777151798348) | — | ⭐ 0 | — |
+| [**HiraShit**](https://github.com/Fujinshi/HiraShit) | — | ⭐ 4322 | Java |
+
 
 <div align="center">
 
@@ -84,8 +80,6 @@
 
 </div>
 ---
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6bgquf4524hgu3mdb3vd4426m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31r6bgquf4524hgu3mdb3vd4426m&redirect=true)
 
 <h2 align="center">Connect with Me</h2>
 
