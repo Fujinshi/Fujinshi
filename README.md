@@ -11,8 +11,8 @@
 <h2 align="center">About Me</h2>
 
 - I have **14** public repositories on GitHub
-- **0** total stars earned across my projects
-- **0** followers · **0** following
+- **4000+** total stars earned across my projects
+- **853** followers · **1** following
 
 ---
 
