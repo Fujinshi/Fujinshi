@@ -42,6 +42,7 @@
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
 | [**HiraShit**](https://github.com/Fujinshi/HiraShit) | — | ⭐ 4322 | Java |
+| [**Hiraclaw**](https://github.com/Fujinshi/Hiraclaw) | — | ⭐ 2302 | TypeScript |
 
 
 <div align="center">
